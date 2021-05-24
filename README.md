@@ -1,6 +1,6 @@
 # landing-page
 #Introduction
-landing page with a dynamic navigation menu 
+landing page with a dynamic navigation menu
 
 #Structure
 Css => style.css //css file
