@@ -1,4 +1,4 @@
-# landing-pag
+# landing-page
 #Introduction
 landing page with a dynamic navigation menu 
 
